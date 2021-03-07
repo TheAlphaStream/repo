@@ -1,0 +1,12 @@
+Origin: alpha's repo
+Label: alpha's repo
+Suite: stable
+Version: 1.0
+Codename: ios
+Architectures: iphoneos-arm
+Components: main
+Description: alpha's wonderful repo
+
+SHA256:
+ b50ed11777a77d15707bb0b968225c3a6f638bff253985665f08995f79a99a5c 949 Packages.bz2
+ b77f261016e98712a16948914ee6ffc22a1f08fef6d42b84668a650ee2130c96 872 Packages.xz

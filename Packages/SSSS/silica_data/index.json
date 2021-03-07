@@ -1,0 +1,44 @@
+{
+    "bundle_id": "com.alphastream.ssss",
+    "name": "SSSS",
+    "version": "1.0",
+    "tagline": "Inspired by the anime SSSS.Gridman.",
+    "homepage": "https://thealphastream.github.io/repo",
+    "developer": {
+        "name": "Alpha_Stream",
+        "email": "alphastream113@gmail.com"
+    },
+    "maintainer": {
+        "name": "Alpha_Stream",
+        "email": "alphastream113@gmail.com"
+    },
+    "social": [
+        {
+            "name": "Twitter",
+            "url": "https://twitter.com/Kutarin_"
+        },
+        {
+            "name": "Website",
+            "url": "https://alphastream.weebly.com"
+        }
+    ],
+    "section": "status bar themes",
+    "pre_dependencies": "",
+    "dependencies": ["com.spark.snowboard", "com.spark.snowboard.statusbar"],
+    "conflicts": "",
+    "replaces": "",
+    "provides": "",
+    "other_control": "",
+
+    "tint": "#55c6d3",
+    "works_min": "11.0",
+    "works_max": "14.3",
+    "featured": "true",
+    "source": "https://github.com/TheAlphaStream/repo",
+    "changelog": [
+        {
+            "version": "1.0",
+            "changes": "Initial release."
+        }
+    ]
+}
