@@ -3,7 +3,7 @@
     "name": "Petal",
     "version": "1.0",
     "tagline": "Status bar with flowers.",
-    "homepage": "https://thealphastream.github.io/repo",
+    "homepage": "https://repo.alphastream.win",
     "developer": {
         "name": "Alpha_Stream",
         "email": "alphastream113@gmail.com"
@@ -32,7 +32,7 @@
 
     "tint": "#55c6d3",
     "works_min": "12.0",
-    "works_max": "14.7",
+    "works_max": "14.8",
     "featured": "true",
     "source": "https://github.com/TheAlphaStream/repo",
     "changelog": [

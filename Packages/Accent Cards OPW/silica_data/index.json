@@ -1,0 +1,44 @@
+{
+    "bundle_id": "com.paraskcd.AccentCards",
+    "name": "Accent Cards OPW",
+    "version": "1.1.2",
+    "tagline": "The Card Style Widget.",
+    "homepage": "https://thealphastream.github.io/repo",
+    "developer": {
+        "name": "Paras KCD",
+        "email": "badman.thegreat@gmail.com"
+    },
+    "maintainer": {
+        "name": "Paras KCD",
+        "email": "badman.thegreat@gmail.com"
+    },
+    "social": [
+        {
+            "name": "Twitter",
+            "url": "https://twitter.com/paraskcd"
+        },
+        {
+            "name": "Website",
+            "url": "https://discord.com/invite/k86jjWq"
+        }
+    ],
+    "section": "widgets",
+    "pre_dependencies": "",
+    "dependencies": ["com.matchstic.xenhtml"],
+    "conflicts": "",
+    "replaces": "",
+    "provides": "",
+    "other_control": "",
+
+    "tint": "#55c6d3",
+    "works_min": "10",
+    "works_max": "later",
+    "featured": "false",
+    "source": "https://github.com/TheAlphaStream/repo",
+    "changelog": [
+        {
+            "version": "1.1.2",
+            "changes": "Fixed a small Date Bug"
+        }
+    ]
+}
