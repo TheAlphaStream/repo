@@ -1,0 +1,44 @@
+{
+    "bundle_id": "com.paraskcd.moira",
+    "name": "Moira",
+    "version": "1.1.1",
+    "tagline": "A theme with beautiful icons!",
+    "homepage": "https://repo.alphastream.win",
+    "developer": {
+        "name": "Paras KCD",
+        "email": "badman.thegreat@gmail.com"
+    },
+    "maintainer": {
+        "name": "Paras KCD",
+        "email": "badman.thegreat@gmail.com"
+    },
+    "social": [
+        {
+            "name": "Twitter",
+            "url": "https://twitter.com/paraskcd"
+        },
+        {
+            "name": "Website",
+            "url": "https://discord.com/invite/k86jjWq"
+        }
+    ],
+    "section": "full themes",
+    "pre_dependencies": "",
+    "dependencies": ["com.spark.snowboard"],
+    "conflicts": "",
+    "replaces": "",
+    "provides": "",
+    "other_control": "",
+
+    "tint": "#55c6d3",
+    "works_min": "7",
+    "works_max": "13",
+    "featured": "false",
+    "source": "https://github.com/TheAlphaStream/repo",
+    "changelog": [
+        {
+            "version": "1.1.1",
+            "changes": ["Improved some Icons", "Added some missing Icons in the Dark Theme"]
+        }
+    ]
+}

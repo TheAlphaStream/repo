@@ -1,0 +1,44 @@
+{
+    "bundle_id": "com.paraskcd.influentialhs",
+    "name": "Influential HS",
+    "version": "4.1",
+    "tagline": "Fluent Design Language, in iOS",
+    "homepage": "https://repo.alphastream.win",
+    "developer": {
+        "name": "Paras KCD & Korfi",
+        "email": "badman.thegreat@gmail.com"
+    },
+    "maintainer": {
+        "name": "Paras KCD",
+        "email": "badman.thegreat@gmail.com"
+    },
+    "social": [
+        {
+            "name": "Twitter",
+            "url": "https://twitter.com/paraskcd"
+        },
+        {
+            "name": "Website",
+            "url": "https://discord.com/invite/k86jjWq"
+        }
+    ],
+    "section": "widgets",
+    "pre_dependencies": "",
+    "dependencies": ["com.matchstic.xenhtml"],
+    "conflicts": "",
+    "replaces": "",
+    "provides": "",
+    "other_control": "",
+
+    "tint": "#55c6d3",
+    "works_min": "12",
+    "works_max": "14.5.1",
+    "featured": "false",
+    "source": "https://github.com/TheAlphaStream/repo",
+    "changelog": [
+        {
+            "version": "4.1",
+            "changes": ["Influential HS 4.1 brings a few tweaks and changes which includes:", "Option to freeze the Window Panels so they can't be moved.", "Option to completely remove the Titlebars of the Window Panels for each individual Widget.", "Made shadows more subtle.", "Option to change the Taskbar completely, making it smaller, with the start button on the left and apps on its right, the statusbar elements just above the Taskbar floating.", "Option to remove the clock from Taskbar, make it bigger and show it on the top of the Screen.", "Bug Fixes"]
+        }
+    ]
+}

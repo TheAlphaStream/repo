@@ -1,0 +1,44 @@
+{
+    "bundle_id": "com.paraskcd.libkcdhtml",
+    "name": "libkcdhtml",
+    "version": "1.0.2",
+    "tagline": "Advanced Library, for XenHTML Widgets",
+    "homepage": "https://repo.alphastream.win",
+    "developer": {
+        "name": "Paras KCD",
+        "email": "badman.thegreat@gmail.com"
+    },
+    "maintainer": {
+        "name": "Paras KCD",
+        "email": "badman.thegreat@gmail.com"
+    },
+    "social": [
+        {
+            "name": "Twitter",
+            "url": "https://twitter.com/paraskcd"
+        },
+        {
+            "name": "Website",
+            "url": "https://discord.com/invite/k86jjWq"
+        }
+    ],
+    "section": "libraries",
+    "pre_dependencies": "",
+    "dependencies": ["com.matchstic.xenhtml"],
+    "conflicts": "",
+    "replaces": "",
+    "provides": "",
+    "other_control": "",
+
+    "tint": "#55c6d3",
+    "works_min": "1",
+    "works_max": "later",
+    "featured": "false",
+    "source": "https://github.com/TheAlphaStream/repo",
+    "changelog": [
+        {
+            "version": "1.0.2",
+            "changes": []
+        }
+    ]
+}

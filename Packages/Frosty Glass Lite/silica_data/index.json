@@ -1,0 +1,44 @@
+{
+    "bundle_id": "com.paraskcd.FrostyGlassLite",
+    "name": "Frosty Glass Lite",
+    "version": "1.1.0",
+    "tagline": "The Frosted Glass Widget!",
+    "homepage": "https://repo.alphastream.win",
+    "developer": {
+        "name": "Paras KCD",
+        "email": "badman.thegreat@gmail.com"
+    },
+    "maintainer": {
+        "name": "Paras KCD",
+        "email": "badman.thegreat@gmail.com"
+    },
+    "social": [
+        {
+            "name": "Twitter",
+            "url": "https://twitter.com/paraskcd"
+        },
+        {
+            "name": "Website",
+            "url": "https://discord.com/invite/k86jjWq"
+        }
+    ],
+    "section": "widgets",
+    "pre_dependencies": "",
+    "dependencies": ["com.matchstic.xenhtml", "com.junesiphone.xeninfo"],
+    "conflicts": "",
+    "replaces": "",
+    "provides": "",
+    "other_control": "",
+
+    "tint": "#55c6d3",
+    "works_min": "9",
+    "works_max": "13.7",
+    "featured": "false",
+    "source": "https://github.com/TheAlphaStream/repo",
+    "changelog": [
+        {
+            "version": "1.1.0",
+            "changes": "Added 12 Hour time"
+        }
+    ]
+}

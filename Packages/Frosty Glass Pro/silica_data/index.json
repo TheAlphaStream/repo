@@ -1,0 +1,44 @@
+{
+    "bundle_id": "com.paraskcd.FrostyGlassPro",
+    "name": "Frosty Glass Pro",
+    "version": "3.0",
+    "tagline": "The Advanced Frosty Glass Widget",
+    "homepage": "https://repo.alphastream.win",
+    "developer": {
+        "name": "Paras KCD",
+        "email": "badman.thegreat@gmail.com"
+    },
+    "maintainer": {
+        "name": "Paras KCD",
+        "email": "badman.thegreat@gmail.com"
+    },
+    "social": [
+        {
+            "name": "Twitter",
+            "url": "https://twitter.com/paraskcd"
+        },
+        {
+            "name": "Website",
+            "url": "https://discord.com/invite/k86jjWq"
+        }
+    ],
+    "section": "widgets",
+    "pre_dependencies": "",
+    "dependencies": ["com.matchstic.xenhtml", "com.paraskcd.libkcdhtml"],
+    "conflicts": "",
+    "replaces": "",
+    "provides": "",
+    "other_control": "",
+
+    "tint": "#55c6d3",
+    "works_min": "10",
+    "works_max": "later",
+    "featured": "false",
+    "source": "https://github.com/TheAlphaStream/repo",
+    "changelog": [
+        {
+            "version": "3.0",
+            "changes": ["Huge Update", "1. Rewrote All the Widgets from scratch", "2. A complete new App Drawer", "3. A more Functional Searchbar, to search for Apps/Search Engine, or even open URLS when typed", "4. More Battery Efficient", "5. New Settings Panel, using most of the XenHTML's new Settings page", "6. A Better Dock, that can contain upto 8 Apps", "7. Rewrote Static, Dynamic Icon Holders as well as the Dock Holder from Scratch"]
+        }
+    ]
+}

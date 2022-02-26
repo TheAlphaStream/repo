@@ -1,0 +1,44 @@
+{
+    "bundle_id": "com.paraskcd.amie",
+    "name": "Amie",
+    "version": "1.8",
+    "tagline": "Nord Color Palette Icon Pack!",
+    "homepage": "https://repo.alphastream.win",
+    "developer": {
+        "name": "Jazzy, Paras KCD and HNDRK",
+        "email": "badman.thegreat@gmail.com"
+    },
+    "maintainer": {
+        "name": "Paras KCD",
+        "email": "badman.thegreat@gmail.com"
+    },
+    "social": [
+        {
+            "name": "Twitter",
+            "url": "https://twitter.com/paraskcd"
+        },
+        {
+            "name": "Website",
+            "url": "https://discord.com/invite/k86jjWq"
+        }
+    ],
+    "section": "icon themes",
+    "pre_dependencies": "",
+    "dependencies": ["com.anemonetheming.anemone | com.spark.snowboard"],
+    "conflicts": "",
+    "replaces": "",
+    "provides": "",
+    "other_control": "",
+
+    "tint": "#55c6d3",
+    "works_min": "7",
+    "works_max": "later",
+    "featured": "false",
+    "source": "https://github.com/TheAlphaStream/repo",
+    "changelog": [
+        {
+            "version": "1.8",
+            "changes": ["Introducing Amie Color, Same Amie glyphs but with Coloured Backgrounds", "The default Amie theme is now Amie Dark, if you still want to use the default theme, you'll have to change it from snowboard", "540 Icons themed in total"]
+        }
+    ]
+}

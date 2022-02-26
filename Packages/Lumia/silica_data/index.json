@@ -1,0 +1,44 @@
+{
+    "bundle_id": "com.paraskcd.lumia",
+    "name": "Lumia",
+    "version": "2.0",
+    "tagline": "The return of the MetroUI",
+    "homepage": "https://repo.alphastream.win",
+    "developer": {
+        "name": "Paras KCD",
+        "email": "badman.thegreat@gmail.com"
+    },
+    "maintainer": {
+        "name": "Paras KCD",
+        "email": "badman.thegreat@gmail.com"
+    },
+    "social": [
+        {
+            "name": "Twitter",
+            "url": "https://twitter.com/paraskcd"
+        },
+        {
+            "name": "Website",
+            "url": "https://discord.com/invite/k86jjWq"
+        }
+    ],
+    "section": "widgets",
+    "pre_dependencies": "",
+    "dependencies": ["com.matchstic.xenhtml"],
+    "conflicts": "",
+    "replaces": "",
+    "provides": "",
+    "other_control": "",
+
+    "tint": "#55c6d3",
+    "works_min": "13",
+    "works_max": "later",
+    "featured": "false",
+    "source": "https://github.com/TheAlphaStream/repo",
+    "changelog": [
+        {
+            "version": "2.0",
+            "changes": ["Added noise effect, to match Windows 10 Aesthetics"]
+        }
+    ]
+}
